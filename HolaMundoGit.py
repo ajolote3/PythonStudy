@@ -1,1 +1,2 @@
-print("Hola Mundo en GitHub con adición")
+nombre= input("¿Cómo te llamas? ")
+print("Hola", nombre, "a GitHub")
